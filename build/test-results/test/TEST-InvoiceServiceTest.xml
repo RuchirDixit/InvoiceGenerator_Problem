@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InvoiceServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-13T07:40:21" hostname="DESKTOP-VKMRUMV" time="0.013">
+  <properties/>
+  <testcase name="givenLessDistanceAndTime_ShouldReturnMinimumFare" classname="InvoiceServiceTest" time="0.008"/>
+  <testcase name="givenUserIdandRide_ShouldReturnInvoiceSummary" classname="InvoiceServiceTest" time="0.0"/>
+  <testcase name="givenDistanceAndTime_ShouldReturnTotalFare" classname="InvoiceServiceTest" time="0.0"/>
+  <testcase name="givenMultipleRides_ShouldReturnInvoiceSummary" classname="InvoiceServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
